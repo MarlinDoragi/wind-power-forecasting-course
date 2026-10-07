@@ -1,4 +1,4 @@
 {
   "name": "Jungmin Ahn",
-  "model_name": "Pipe5yTemporal_DirectEns_mix50"
+  "model_name": "PipeSqrtRidgeLag_DirectEns_mix50"
 }
